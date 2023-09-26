@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TheDragonait656
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Carlos Grabriel Richiez Roldan
+- 👀 I’m interested in gobernar el mundo
+- 🌱 I’m currently learning Programacion para mecatronicos
+- 💞️ I’m looking to collaborate on Tesla
+- 📫 How to reach me idk
 
 <!---
 TheDragonait656/TheDragonait656 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
